@@ -11,10 +11,20 @@ I am a results-driven **Software Engineer** with over 4 years of experience desi
 
 ### 🛠️ Tech Stack & Skills
 
-<img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="Spring Boot" /> <img src="https://shields.io" alt="REST APIs" />
-<img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="Angular" /> <img src="https://shields.io" alt="HTML5" />
-<img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Oracle" /> <img src="https://shields.io" alt="Microsoft Azure" />
-<img src="https://shields.io" alt="GitHub Actions" /> <img src="https://shields.io" alt="Jira" /> <img src="https://shields.io" alt="Bitbucket" />
+<p align="left">
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Spring Boot" />
+  <img src="https://shields.io" alt="REST APIs" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Angular" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="Oracle" />
+  <img src="https://shields.io" alt="Azure" />
+  <img src="https://shields.io" alt="GitHub Actions" />
+  <img src="https://shields.io" alt="Jira" />
+  <img src="https://shields.io" alt="Bitbucket" />
+</p>
 
 ---
 
@@ -30,4 +40,8 @@ I am a results-driven **Software Engineer** with over 4 years of experience desi
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
