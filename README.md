@@ -11,30 +11,13 @@ I am a results-driven **Software Engineer** with over 4 years of experience desi
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Spring Boot" />
-  <img src="https://shields.io" alt="REST APIs" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Angular" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Oracle" />
-  <img src="https://shields.io" alt="Azure" />
-  <img src="https://shields.io" alt="GitHub Actions" />
-  <img src="https://shields.io" alt="Jira" />
-  <img src="https://shields.io" alt="Bitbucket" />
-</p>
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://vercel.app" alt="Udith's GitHub Stats" />
-  <br />
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Core** | `Java` • `Spring Boot` • `REST APIs` • `PL/SQL` • `OOP` • `SOLID` |
+| **Frontend Integration** | `JavaScript` • `Angular` • `HTML5` • `CSS3` |
+| **Databases** | `MySQL` • `Oracle DB` • `SQL Server` |
+| **Cloud & DevOps** | `Microsoft Azure` • `GitHub Actions` • `CI/CD Workflows` |
+| **Workflow Tools** | `Bitbucket` • `Jira` • `Git` • `IFS Developer Studio` • `Cursor` |
 
 ---
 
