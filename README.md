@@ -2,8 +2,8 @@
 
 I am a results-driven **Software Engineer** with over 4 years of experience designing, building, and deploying scalable enterprise applications and microservices-based systems. I specialize in backend engineering, CI/CD pipeline automation, and code quality initiatives.
 
-- 🌍 Based in Pepiliyana, Sri Lanka
-- 💼 Software Engineer at **IFS**
+- 🌍 Based in Colombo, Sri Lanka
+- 💼 Software Engineer
 - 🎓 MSc in Computer Science (Pass with Merit) — Wrexham Glyndwr University
 - 💡 Actively adopting modern AI tools to enhance development productivity
 
