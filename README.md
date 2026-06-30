@@ -11,10 +11,10 @@ I am a results-driven **Software Engineer** with over 4 years of experience desi
 
 ### 🛠️ Tech Stack & Skills
 
-![Java](https://shields.io) ![Spring Boot](https://shields.io) ![REST APIs](https://shields.io)
-![JavaScript](https://shields.io) ![Angular](https://shields.io) ![HTML5](https://shields.io)
-![MySQL](https://shields.io) ![Oracle](https://shields.io) ![Microsoft Azure](https://shields.io)
-![GitHub Actions](https://shields.io) ![Jira](https://shields.io) ![Bitbucket](https://shields.io)
+<img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="Spring Boot" /> <img src="https://shields.io" alt="REST APIs" />
+<img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="Angular" /> <img src="https://shields.io" alt="HTML5" />
+<img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Oracle" /> <img src="https://shields.io" alt="Microsoft Azure" />
+<img src="https://shields.io" alt="GitHub Actions" /> <img src="https://shields.io" alt="Jira" /> <img src="https://shields.io" alt="Bitbucket" />
 
 ---
 
